@@ -1,4 +1,5 @@
 Personal Workout Tracker
+
 This project is for a personal workout tracker app that provides users with the option to track their workouts and monitor their progress.
 Features include:
 •	Create and edit personal accounts
